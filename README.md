@@ -4,15 +4,14 @@ Welcome to **DSA-Journey**! This repository is a collection of my solutions to v
 
 ## Structure
 
-The repository is organized into folders based on the type of data structure or algorithm, such as:
+The repository is organized into folders based on the A2Z DSA Course/Sheet by Striver, such as:
 
-- **Arrays**
-- **Linked Lists**
-- **Trees**
-- **Graphs**
-- **Dynamic Programming**
-- **Sorting and Searching**
-- **Miscellaneous**
+- **Step 1: Learn the basics**
+- **Step 2: Learn Important Sorting Techniques**
+- **Step 3: Solve Problems on Arrays [Easy -> Medium -> Hard]**
+- **Step 4: Binary Search [1D, 2D Arrays, Search Space]**
+- **Step 5: Strings [Basic and Medium]**
+- **etc.**
 
 Each folder contains files for specific problems, where you will find:
 
